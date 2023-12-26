@@ -42,3 +42,6 @@ Explore the various features and functionalities provided by DentyTech to improv
 - TypeScript
 - Tailwind CSS
 - animejs
+
+## Demo Video
+[Demo](https://drive.google.com/file/d/1rEsTKUT60j5xHPpTX_7ta0wkZr2ROrr5/view?usp=sharing)
